@@ -1,0 +1,3 @@
+13,8,360,170,4654,13,73,1,plymouth custom suburb 
+12,8,350,180,4499,12.5,73,1,oldsmobile vista cruiser 
+18,6,232,100,2789,15,73,1,amc gremlin 
